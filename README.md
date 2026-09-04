@@ -37,8 +37,8 @@ Comenzarás a desarrollar programas más organizados, reutilizables y capaces de
 - [ ] [Unidad 5 — Cadenas y archivos](unidad05-cadenas-archivos/)
 - [ ] [Unidad 6 — Errores y excepciones](unidad06-excepciones/)
 - [ ] [Unidad 7 — Programación orientada a objetos](unidad07-poo/)
-- [ ] [Unidad 8 — POO avanzada](unidad08-poo-avanzada/)
-- [ ] [Unidad 9 — Módulos y proyectos](unidad09-modulos-proyectos/)
+- [ ] [Unidad 8 — Programación orientada a objetos avanzada](unidad08-poo-avanzada/)
+- [ ] [Unidad 9 — Módulos, paquetes y organización de proyectos](unidad09-modulos-proyectos/)
 
 ---
 
@@ -49,7 +49,7 @@ Profundizarás en características del lenguaje y en técnicas utilizadas para e
 - [ ] [Unidad 10 — Python funcional](unidad10-python-funcional/)
 - [ ] [Unidad 11 — Python avanzado](unidad11-python-avanzado/)
 - [ ] [Unidad 12 — Tipado y buenas prácticas](unidad12-tipado-buenas-practicas/)
-- [ ] [Unidad 13 — Pruebas](unidad13-pruebas/)
+- [ ] [Unidad 13 — Pruebas automatizadas con Python](unidad13-pruebas/)
 
 ---
 
@@ -57,12 +57,12 @@ Profundizarás en características del lenguaje y en técnicas utilizadas para e
 
 Utilizarás Python para resolver problemas relacionados con bases de datos, servicios web, concurrencia, datos y automatización.
 
-- [ ] [Unidad 14 — Bases de datos](unidad14-bases-datos/)
-- [ ] [Unidad 15 — Consumo de APIs](unidad15-consumo-apis/)
-- [ ] [Unidad 16 — Creación de APIs](unidad16-creacion-apis/)
-- [ ] [Unidad 17 — Concurrencia](unidad17-concurrencia/)
-- [ ] [Unidad 18 — Análisis de datos](unidad18-datos/)
-- [ ] [Unidad 19 — Automatización](unidad19-automatizacion/)
+- [ ] [Unidad 14 — Bases de datos con Python y SQLite](unidad14-bases-datos/)
+- [ ] [Unidad 15 — Consumo de APIs REST con Python](unidad15-consumo-apis/)
+- [ ] [Unidad 16 — Creación de APIs REST con FastAPI](unidad16-creacion-apis/)
+- [ ] [Unidad 17 — Concurrencia en Python](unidad17-concurrencia/)
+- [ ] [Unidad 18 — Análisis de datos con NumPy y pandas](unidad18-datos/)
+- [ ] [Unidad 19 — Automatización con Python](unidad19-automatizacion/)
 
 ---
 
@@ -194,7 +194,7 @@ Comienza aquí:
 
 ## 📌 Estado del proyecto
 
-Este repositorio se encuentra en construcción y continuará incorporando ejemplos, ejercicios y material complementario.
+El curso cuenta con 22 unidades completas, desde la preparación del entorno hasta el proyecto final integrador.
 
 ---
 
