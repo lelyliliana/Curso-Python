@@ -1,5 +1,7 @@
 # Unidad 7 — Programación orientada a objetos
 
+[Volver al índice del curso](../README.md) · [Ver el curso en Aprende con Leli](https://lelyliliana.github.io/aprende-con-leli/cursos/python/)
+
 En esta unidad aprenderás a representar entidades mediante objetos que reúnen datos y comportamiento. Estudiaremos POO fundamental; la herencia y otros mecanismos avanzados pertenecen a la Unidad 8.
 
 ---
@@ -914,3 +916,12 @@ En la Unidad 8 profundizaremos en POO con herencia, polimorfismo, composición a
 🏠 [Volver al inicio del curso](../README.md)
 
 ➡️ [Continuar a la Unidad 8 — POO avanzada](../unidad08-poo-avanzada/)
+
+
+---
+
+## Continuar el curso
+
+- **Unidad anterior:** [Unidad 6 — Errores y excepciones](../unidad06-excepciones/README.md)
+- **Volver al índice:** [Todas las unidades](../README.md)
+- **Siguiente unidad:** [Unidad 8 — Programación orientada a objetos avanzada](../unidad08-poo-avanzada/README.md)

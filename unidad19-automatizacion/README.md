@@ -1,5 +1,7 @@
 # Unidad 19 — Automatización con Python
 
+[Volver al índice del curso](../README.md) · [Ver el curso en Aprende con Leli](https://lelyliliana.github.io/aprende-con-leli/cursos/python/)
+
 Muchas tareas con archivos siguen reglas sencillas pero consumen tiempo cuando se repiten. En esta unidad aprenderás a convertir esas reglas en scripts seguros, observables y comprobables.
 
 ---
@@ -763,3 +765,12 @@ Ya sabemos construir programas, APIs, pruebas, procesamiento de datos y automati
 🏠 [Volver al inicio del curso](../README.md)
 
 ➡️ [Continuar a la Unidad 20 — Python profesional](../unidad20-python-profesional/)
+
+
+---
+
+## Continuar el curso
+
+- **Unidad anterior:** [Unidad 18 — Análisis de datos con NumPy y pandas](../unidad18-datos/README.md)
+- **Volver al índice:** [Todas las unidades](../README.md)
+- **Siguiente unidad:** [Unidad 20 — Python profesional](../unidad20-python-profesional/README.md)

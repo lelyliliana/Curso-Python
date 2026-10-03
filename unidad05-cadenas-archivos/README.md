@@ -1,5 +1,7 @@
 # Unidad 5 — Cadenas y archivos
 
+[Volver al índice del curso](../README.md) · [Ver el curso en Aprende con Leli](https://lelyliliana.github.io/aprende-con-leli/cursos/python/)
+
 Hasta ahora hemos utilizado textos y hemos almacenado datos mientras el programa se encuentra en ejecución. En esta unidad aprenderás a procesar cadenas con mayor profundidad y a conservar información en archivos para recuperarla posteriormente.
 
 ---
@@ -1323,3 +1325,12 @@ Hasta ahora hemos evitado intencionalmente muchas operaciones que podrían falla
 🏠 [Volver al inicio del curso](../README.md)
 
 ➡️ [Continuar a la Unidad 6 — Errores y excepciones](../unidad06-excepciones/)
+
+
+---
+
+## Continuar el curso
+
+- **Unidad anterior:** [Unidad 4 — Funciones](../unidad04-funciones/README.md)
+- **Volver al índice:** [Todas las unidades](../README.md)
+- **Siguiente unidad:** [Unidad 6 — Errores y excepciones](../unidad06-excepciones/README.md)

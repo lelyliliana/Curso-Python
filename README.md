@@ -1,5 +1,11 @@
 # 🐍 Curso de Python
 
+**[Comenzar el curso: Unidad 0 — Preparación del entorno](unidad00-entorno/README.md)**
+
+Puedes leer las lecciones aquí sin conocer GitHub. Al terminar cada unidad, usa **Siguiente unidad** para avanzar; **Unidad anterior** y **Volver al índice** te permiten regresar.
+
+[Ver el curso en Aprende con Leli](https://lelyliliana.github.io/aprende-con-leli/cursos/python/)
+
 Curso completo de **Python desde cero hasta nivel avanzado**, diseñado para aprender de manera progresiva mediante explicaciones claras, ejemplos prácticos, ejercicios y proyectos.
 
 El contenido está organizado como una **ruta de aprendizaje**, por lo que puedes comenzar sin conocimientos previos de Python e ir avanzando unidad por unidad.

@@ -1,5 +1,7 @@
 # Unidad 0 — Preparación del entorno
 
+[Volver al índice del curso](../README.md) · [Ver el curso en Aprende con Leli](https://lelyliliana.github.io/aprende-con-leli/cursos/python/)
+
 Antes de comenzar a programar necesitamos preparar las herramientas que utilizaremos durante el curso.
 
 En esta unidad aprenderás qué es Python, cómo instalarlo en tu computador, cómo preparar Visual Studio Code y cómo ejecutar tu primer programa.
@@ -1725,3 +1727,10 @@ En la siguiente unidad aprenderás sobre:
 ---
 
 [⬅️ Volver al inicio del curso](../README.md)
+
+---
+
+## Continuar el curso
+
+- **Volver al índice:** [Todas las unidades](../README.md)
+- **Siguiente unidad:** [Unidad 1 — Fundamentos de Python](../unidad01-fundamentos/README.md)

@@ -1,5 +1,7 @@
 # Unidad 3 — Colecciones
 
+[Volver al índice del curso](../README.md) · [Ver el curso en Aprende con Leli](https://lelyliliana.github.io/aprende-con-leli/cursos/python/)
+
 Hasta ahora hemos guardado cada dato en una variable independiente. En esta unidad aprenderás a reunir varios datos relacionados para consultarlos, modificarlos y recorrerlos de forma organizada.
 
 Estudiaremos las cuatro colecciones integradas principales de Python: listas, tuplas, conjuntos y diccionarios.
@@ -1367,3 +1369,12 @@ En la Unidad 4 aprenderemos a organizar y reutilizar esa lógica mediante funcio
 🏠 [Volver al inicio del curso](../README.md)
 
 ➡️ [Continuar a la Unidad 4 — Funciones](../unidad04-funciones/)
+
+
+---
+
+## Continuar el curso
+
+- **Unidad anterior:** [Unidad 2 — Control de flujo](../unidad02-control-flujo/README.md)
+- **Volver al índice:** [Todas las unidades](../README.md)
+- **Siguiente unidad:** [Unidad 4 — Funciones](../unidad04-funciones/README.md)

@@ -1,5 +1,7 @@
 # Unidad 9 — Módulos, paquetes y organización de proyectos
 
+[Volver al índice del curso](../README.md) · [Ver el curso en Aprende con Leli](https://lelyliliana.github.io/aprende-con-leli/cursos/python/)
+
 Hasta ahora los ejemplos podían vivir en un solo archivo. En esta unidad aprenderás a distribuir una aplicación entre archivos relacionados y a preparar un entorno reproducible.
 
 ---
@@ -582,3 +584,12 @@ La Unidad 10 estudiará herramientas de Python funcional para transformar y comb
 🏠 [Volver al inicio del curso](../README.md)
 
 ➡️ [Continuar a la Unidad 10 — Python funcional](../unidad10-python-funcional/)
+
+
+---
+
+## Continuar el curso
+
+- **Unidad anterior:** [Unidad 8 — Programación orientada a objetos avanzada](../unidad08-poo-avanzada/README.md)
+- **Volver al índice:** [Todas las unidades](../README.md)
+- **Siguiente unidad:** [Unidad 10 — Python funcional](../unidad10-python-funcional/README.md)

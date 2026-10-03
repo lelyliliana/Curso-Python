@@ -1,5 +1,7 @@
 # Unidad 6 — Errores y excepciones
 
+[Volver al índice del curso](../README.md) · [Ver el curso en Aprende con Leli](https://lelyliliana.github.io/aprende-con-leli/cursos/python/)
+
 Los programas reciben datos, leen archivos y realizan operaciones que no siempre pueden completarse. En esta unidad aprenderás a reconocer errores y responder de forma controlada ante situaciones excepcionales.
 
 ---
@@ -934,3 +936,12 @@ Ahora sabemos representar datos, organizar lógica, persistir información y res
 🏠 [Volver al inicio del curso](../README.md)
 
 ➡️ [Continuar a la Unidad 7 — Programación orientada a objetos](../unidad07-poo/)
+
+
+---
+
+## Continuar el curso
+
+- **Unidad anterior:** [Unidad 5 — Cadenas y archivos](../unidad05-cadenas-archivos/README.md)
+- **Volver al índice:** [Todas las unidades](../README.md)
+- **Siguiente unidad:** [Unidad 7 — Programación orientada a objetos](../unidad07-poo/README.md)

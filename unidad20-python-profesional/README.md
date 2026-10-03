@@ -1,5 +1,7 @@
 # Unidad 20 — Python profesional
 
+[Volver al índice del curso](../README.md) · [Ver el curso en Aprende con Leli](https://lelyliliana.github.io/aprende-con-leli/cursos/python/)
+
 Un programa no se vuelve profesional por ser grande. Se vuelve más sostenible cuando su estructura comunica responsabilidades, su configuración es explícita y otras personas pueden instalarlo, probarlo y modificarlo con confianza.
 
 ---
@@ -722,3 +724,12 @@ Ya tenemos las herramientas necesarias. La última unidad será un proyecto inte
 🏠 [Volver al inicio del curso](../README.md)
 
 ➡️ [Continuar a la Unidad 21 — Proyecto final](../unidad21-proyecto-final/)
+
+
+---
+
+## Continuar el curso
+
+- **Unidad anterior:** [Unidad 19 — Automatización con Python](../unidad19-automatizacion/README.md)
+- **Volver al índice:** [Todas las unidades](../README.md)
+- **Siguiente unidad:** [Unidad 21 — Proyecto final](../unidad21-proyecto-final/README.md)

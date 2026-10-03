@@ -1,5 +1,7 @@
 # Unidad 12 — Tipado y buenas prácticas
 
+[Volver al índice del curso](../README.md) · [Ver el curso en Aprende con Leli](https://lelyliliana.github.io/aprende-con-leli/cursos/python/)
+
 Un programa puede producir el resultado esperado y, aun así, ser difícil de comprender o modificar. En esta unidad aprenderás a comunicar mejor la intención del código mediante convenciones, type hints, `dataclasses`, documentación y refactorizaciones pequeñas.
 
 ---
@@ -1160,3 +1162,12 @@ La Unidad 13 introducirá pruebas automatizadas, pytest, asserts, fixtures, para
 🏠 [Volver al inicio del curso](../README.md)
 
 ➡️ [Continuar a la Unidad 13 — Pruebas](../unidad13-pruebas/)
+
+
+---
+
+## Continuar el curso
+
+- **Unidad anterior:** [Unidad 11 — Python avanzado](../unidad11-python-avanzado/README.md)
+- **Volver al índice:** [Todas las unidades](../README.md)
+- **Siguiente unidad:** [Unidad 13 — Pruebas automatizadas con Python](../unidad13-pruebas/README.md)

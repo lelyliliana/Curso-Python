@@ -1,5 +1,7 @@
 # Unidad 2 — Control de flujo
 
+[Volver al índice del curso](../README.md) · [Ver el curso en Aprende con Leli](https://lelyliliana.github.io/aprende-con-leli/cursos/python/)
+
 Hasta ahora nuestros programas se han ejecutado principalmente de arriba hacia abajo: cada instrucción se realiza una vez y luego comienza la siguiente.
 
 En esta unidad aprenderás a controlar **qué instrucciones se ejecutan** y **cuántas veces se ejecutan**. Para lograrlo utilizaremos condicionales y ciclos.
@@ -1251,3 +1253,12 @@ En la siguiente unidad aprenderemos a guardar y organizar varios valores mediant
 🏠 [Volver al inicio del curso](../README.md)
 
 ➡️ [Continuar a la Unidad 3 — Colecciones](../unidad03-colecciones/)
+
+
+---
+
+## Continuar el curso
+
+- **Unidad anterior:** [Unidad 1 — Fundamentos de Python](../unidad01-fundamentos/README.md)
+- **Volver al índice:** [Todas las unidades](../README.md)
+- **Siguiente unidad:** [Unidad 3 — Colecciones](../unidad03-colecciones/README.md)

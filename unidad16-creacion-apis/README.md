@@ -1,5 +1,7 @@
 # Unidad 16 — Creación de APIs REST con FastAPI
 
+[Volver al índice del curso](../README.md) · [Ver el curso en Aprende con Leli](https://lelyliliana.github.io/aprende-con-leli/cursos/python/)
+
 En la unidad anterior nuestro programa era cliente de una API externa. Ahora construiremos el servidor: recibirá peticiones HTTP, validará datos, ejecutará lógica y devolverá respuestas JSON.
 
 ---
@@ -391,3 +393,12 @@ Ahora podemos construir servicios web. La Unidad 17 estudiará concurrencia, thr
 🏠 [Volver al inicio del curso](../README.md)
 
 ➡️ [Continuar a la Unidad 17 — Concurrencia](../unidad17-concurrencia/)
+
+
+---
+
+## Continuar el curso
+
+- **Unidad anterior:** [Unidad 15 — Consumo de APIs REST con Python](../unidad15-consumo-apis/README.md)
+- **Volver al índice:** [Todas las unidades](../README.md)
+- **Siguiente unidad:** [Unidad 17 — Concurrencia en Python](../unidad17-concurrencia/README.md)

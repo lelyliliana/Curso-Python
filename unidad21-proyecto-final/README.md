@@ -1,5 +1,7 @@
 # Unidad 21 — Proyecto final
 
+[Volver al índice del curso](../README.md) · [Ver el curso en Aprende con Leli](https://lelyliliana.github.io/aprende-con-leli/cursos/python/)
+
 Llegaste a la etapa en la que los conceptos dejan de aparecer como ejercicios aislados y se convierten en decisiones dentro de una solución completa. En esta unidad diseñarás, implementarás, probarás y documentarás un proyecto propio.
 
 No encontrarás una aplicación final resuelta de principio a fin. Esta guía te ofrece preguntas, rutas, criterios, plantillas y controles para que construyas una solución que puedas comprender y defender.
@@ -893,3 +895,13 @@ Tu proyecto final no necesita ser perfecto. Debe ser coherente, verificable y co
 ## 🎓 Curso completado
 
 Has recorrido la ruta completa. Conserva la práctica de ejecutar, observar, probar, documentar y mejorar: ahí continúa el aprendizaje.
+
+
+---
+
+## Continuar el curso
+
+- **Unidad anterior:** [Unidad 20 — Python profesional](../unidad20-python-profesional/README.md)
+- **Volver al índice:** [Todas las unidades](../README.md)
+
+Llegaste a la última unidad. Revisa tu proyecto y la lista de comprobación antes de dar por terminado el curso.

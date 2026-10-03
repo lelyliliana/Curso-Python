@@ -1,5 +1,7 @@
 # Unidad 13 — Pruebas automatizadas con Python
 
+[Volver al índice del curso](../README.md) · [Ver el curso en Aprende con Leli](https://lelyliliana.github.io/aprende-con-leli/cursos/python/)
+
 Cuando modificamos un programa, necesitamos comprobar que lo anterior continúa funcionando. En esta unidad comenzaremos con `assert` y una breve introducción a `unittest`, pero utilizaremos **pytest** como herramienta principal para construir y ejecutar pruebas reales.
 
 ---
@@ -904,3 +906,12 @@ Hasta ahora hemos almacenado datos principalmente en memoria, TXT, CSV y JSON. L
 🏠 [Volver al inicio del curso](../README.md)
 
 ➡️ [Continuar a la Unidad 14 — Bases de datos](../unidad14-bases-datos/)
+
+
+---
+
+## Continuar el curso
+
+- **Unidad anterior:** [Unidad 12 — Tipado y buenas prácticas](../unidad12-tipado-buenas-practicas/README.md)
+- **Volver al índice:** [Todas las unidades](../README.md)
+- **Siguiente unidad:** [Unidad 14 — Bases de datos con Python y SQLite](../unidad14-bases-datos/README.md)

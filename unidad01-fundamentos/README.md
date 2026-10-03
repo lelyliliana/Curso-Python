@@ -1,5 +1,7 @@
 # Unidad 1 — Fundamentos de Python
 
+[Volver al índice del curso](../README.md) · [Ver el curso en Aprende con Leli](https://lelyliliana.github.io/aprende-con-leli/cursos/python/)
+
 En esta unidad comenzaremos a estudiar formalmente el lenguaje Python.
 
 Aprenderás a escribir instrucciones básicas, utilizar variables, trabajar con diferentes tipos de datos, recibir información del usuario y realizar operaciones.
@@ -1519,3 +1521,12 @@ En la siguiente unidad aprenderás sobre:
 🏠 [Volver al inicio del curso](../README.md)
 
 ➡️ [Continuar a la Unidad 2 — Control de flujo](../unidad02-control-flujo/)
+
+
+---
+
+## Continuar el curso
+
+- **Unidad anterior:** [Unidad 0 — Preparación del entorno](../unidad00-entorno/README.md)
+- **Volver al índice:** [Todas las unidades](../README.md)
+- **Siguiente unidad:** [Unidad 2 — Control de flujo](../unidad02-control-flujo/README.md)

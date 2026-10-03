@@ -1,5 +1,7 @@
 # Unidad 8 — Programación orientada a objetos avanzada
 
+[Volver al índice del curso](../README.md) · [Ver el curso en Aprende con Leli](https://lelyliliana.github.io/aprende-con-leli/cursos/python/)
+
 En la Unidad 7 aprendimos a crear objetos con estado y comportamiento. Ahora estudiaremos relaciones entre clases y formas de integrarlas mejor con Python.
 
 ---
@@ -698,3 +700,12 @@ La Unidad 9 organizará el código en módulos, paquetes y proyectos. Estas herr
 🏠 [Volver al inicio del curso](../README.md)
 
 ➡️ [Continuar a la Unidad 9 — Módulos y proyectos](../unidad09-modulos-proyectos/)
+
+
+---
+
+## Continuar el curso
+
+- **Unidad anterior:** [Unidad 7 — Programación orientada a objetos](../unidad07-poo/README.md)
+- **Volver al índice:** [Todas las unidades](../README.md)
+- **Siguiente unidad:** [Unidad 9 — Módulos, paquetes y organización de proyectos](../unidad09-modulos-proyectos/README.md)

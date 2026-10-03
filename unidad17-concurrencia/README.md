@@ -1,5 +1,7 @@
 # Unidad 17 — Concurrencia en Python
 
+[Volver al índice del curso](../README.md) · [Ver el curso en Aprende con Leli](https://lelyliliana.github.io/aprende-con-leli/cursos/python/)
+
 Algunas tareas calculan continuamente; otras pasan gran parte del tiempo esperando disco, red o temporizadores. En esta unidad aprenderás a coordinar trabajo con threads, procesos y asyncio, y a elegir según el problema.
 
 ---
@@ -426,3 +428,12 @@ La Unidad 18 aplicará Python al análisis y procesamiento de datos.
 🏠 [Volver al inicio del curso](../README.md)
 
 ➡️ [Continuar a la Unidad 18 — Análisis de datos](../unidad18-datos/)
+
+
+---
+
+## Continuar el curso
+
+- **Unidad anterior:** [Unidad 16 — Creación de APIs REST con FastAPI](../unidad16-creacion-apis/README.md)
+- **Volver al índice:** [Todas las unidades](../README.md)
+- **Siguiente unidad:** [Unidad 18 — Análisis de datos con NumPy y pandas](../unidad18-datos/README.md)

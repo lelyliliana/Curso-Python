@@ -1,5 +1,7 @@
 # Unidad 11 — Python avanzado
 
+[Volver al índice del curso](../README.md) · [Ver el curso en Aprende con Leli](https://lelyliliana.github.io/aprende-con-leli/cursos/python/)
+
 Esta unidad profundiza en iteración, evaluación perezosa, closures, decoradores y context managers: mecanismos distintos que permiten controlar cómo se producen valores y cómo se envuelven operaciones y recursos.
 
 ---
@@ -591,3 +593,12 @@ La Unidad 12 se centrará en código explícito y mantenible mediante type hints
 🏠 [Volver al inicio del curso](../README.md)
 
 ➡️ [Continuar a la Unidad 12 — Tipado y buenas prácticas](../unidad12-tipado-buenas-practicas/)
+
+
+---
+
+## Continuar el curso
+
+- **Unidad anterior:** [Unidad 10 — Python funcional](../unidad10-python-funcional/README.md)
+- **Volver al índice:** [Todas las unidades](../README.md)
+- **Siguiente unidad:** [Unidad 12 — Tipado y buenas prácticas](../unidad12-tipado-buenas-practicas/README.md)

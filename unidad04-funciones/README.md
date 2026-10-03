@@ -1,5 +1,7 @@
 # Unidad 4 — Funciones
 
+[Volver al índice del curso](../README.md) · [Ver el curso en Aprende con Leli](https://lelyliliana.github.io/aprende-con-leli/cursos/python/)
+
 Nuestros programas ya pueden tomar decisiones, repetir acciones y organizar varios datos. Sin embargo, cuando crecen, es frecuente encontrar instrucciones repetidas o bloques que realizan demasiadas tareas.
 
 En esta unidad aprenderás a dividir un programa en bloques reutilizables llamados **funciones**.
@@ -1222,3 +1224,12 @@ Nuestro código ya puede organizar mejor la lógica. En la Unidad 5 aprenderemos
 🏠 [Volver al inicio del curso](../README.md)
 
 ➡️ [Continuar a la Unidad 5 — Cadenas y archivos](../unidad05-cadenas-archivos/)
+
+
+---
+
+## Continuar el curso
+
+- **Unidad anterior:** [Unidad 3 — Colecciones](../unidad03-colecciones/README.md)
+- **Volver al índice:** [Todas las unidades](../README.md)
+- **Siguiente unidad:** [Unidad 5 — Cadenas y archivos](../unidad05-cadenas-archivos/README.md)

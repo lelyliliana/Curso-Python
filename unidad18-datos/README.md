@@ -1,5 +1,7 @@
 # Unidad 18 — Análisis de datos con NumPy y pandas
 
+[Volver al índice del curso](../README.md) · [Ver el curso en Aprende con Leli](https://lelyliliana.github.io/aprende-con-leli/cursos/python/)
+
 Los programas anteriores guardaron información en colecciones, archivos, APIs y bases de datos. En esta unidad aprenderás a convertir datos tabulares en respuestas reproducibles mediante NumPy y, principalmente, pandas.
 
 ---
@@ -960,3 +962,12 @@ Ahora podemos procesar y analizar datos estructurados mediante pasos repetibles.
 🏠 [Volver al inicio del curso](../README.md)
 
 ➡️ [Continuar a la Unidad 19 — Automatización](../unidad19-automatizacion/)
+
+
+---
+
+## Continuar el curso
+
+- **Unidad anterior:** [Unidad 17 — Concurrencia en Python](../unidad17-concurrencia/README.md)
+- **Volver al índice:** [Todas las unidades](../README.md)
+- **Siguiente unidad:** [Unidad 19 — Automatización con Python](../unidad19-automatizacion/README.md)

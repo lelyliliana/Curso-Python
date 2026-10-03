@@ -1,5 +1,7 @@
 # Unidad 14 — Bases de datos con Python y SQLite
 
+[Volver al índice del curso](../README.md) · [Ver el curso en Aprende con Leli](https://lelyliliana.github.io/aprende-con-leli/cursos/python/)
+
 Hasta ahora hemos guardado información en TXT, CSV y JSON. En esta unidad aprenderás a conservar y consultar datos estructurados mediante una base de datos relacional, SQL, SQLite y el módulo `sqlite3` de Python.
 
 ---
@@ -997,3 +999,12 @@ Ahora podemos almacenar información estructurada. La Unidad 15 enseñará a obt
 🏠 [Volver al inicio del curso](../README.md)
 
 ➡️ [Continuar a la Unidad 15 — Consumo de APIs](../unidad15-consumo-apis/)
+
+
+---
+
+## Continuar el curso
+
+- **Unidad anterior:** [Unidad 13 — Pruebas automatizadas con Python](../unidad13-pruebas/README.md)
+- **Volver al índice:** [Todas las unidades](../README.md)
+- **Siguiente unidad:** [Unidad 15 — Consumo de APIs REST con Python](../unidad15-consumo-apis/README.md)

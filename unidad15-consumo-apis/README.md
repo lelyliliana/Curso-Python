@@ -1,5 +1,7 @@
 # Unidad 15 — Consumo de APIs REST con Python
 
+[Volver al índice del curso](../README.md) · [Ver el curso en Aprende con Leli](https://lelyliliana.github.io/aprende-con-leli/cursos/python/)
+
 Hasta ahora nuestros programas han trabajado principalmente con datos locales. En esta unidad aprenderás a solicitar información a servicios web, interpretar respuestas JSON y construir un cliente HTTP robusto y comprobable.
 
 ---
@@ -503,3 +505,12 @@ Hasta ahora somos clientes de una API. En la Unidad 16 construiremos nuestro pro
 🏠 [Volver al inicio del curso](../README.md)
 
 ➡️ [Continuar a la Unidad 16 — Creación de APIs](../unidad16-creacion-apis/)
+
+
+---
+
+## Continuar el curso
+
+- **Unidad anterior:** [Unidad 14 — Bases de datos con Python y SQLite](../unidad14-bases-datos/README.md)
+- **Volver al índice:** [Todas las unidades](../README.md)
+- **Siguiente unidad:** [Unidad 16 — Creación de APIs REST con FastAPI](../unidad16-creacion-apis/README.md)

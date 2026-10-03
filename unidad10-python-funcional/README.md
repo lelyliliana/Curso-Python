@@ -1,5 +1,7 @@
 # Unidad 10 — Python funcional
 
+[Volver al índice del curso](../README.md) · [Ver el curso en Aprende con Leli](https://lelyliliana.github.io/aprende-con-leli/cursos/python/)
+
 Python permite combinar estilos imperativo, orientado a objetos y funcional. En esta unidad utilizaremos funciones para transformar, filtrar, combinar y reducir datos sin convertir la brevedad en un objetivo por sí misma.
 
 ---
@@ -543,3 +545,12 @@ Hemos utilizado iterables y valores producidos de forma perezosa sin estudiar a�
 🏠 [Volver al inicio del curso](../README.md)
 
 ➡️ [Continuar a la Unidad 11 — Python avanzado](../unidad11-python-avanzado/)
+
+
+---
+
+## Continuar el curso
+
+- **Unidad anterior:** [Unidad 9 — Módulos, paquetes y organización de proyectos](../unidad09-modulos-proyectos/README.md)
+- **Volver al índice:** [Todas las unidades](../README.md)
+- **Siguiente unidad:** [Unidad 11 — Python avanzado](../unidad11-python-avanzado/README.md)
