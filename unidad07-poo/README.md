@@ -925,3 +925,11 @@ En la Unidad 8 profundizaremos en POO con herencia, polimorfismo, composición a
 - **Unidad anterior:** [Unidad 6 — Errores y excepciones](../unidad06-excepciones/README.md)
 - **Volver al índice:** [Todas las unidades](../README.md)
 - **Siguiente unidad:** [Unidad 8 — Programación orientada a objetos avanzada](../unidad08-poo-avanzada/README.md)
+
+---
+
+### ¿Necesitas apoyo con este tema?
+
+Si te bloqueaste con la práctica, necesitas revisar tu entorno o adaptar lo aprendido a tu proyecto, podemos trabajarlo en una sesión personalizada.
+
+[**Solicitar asesoría para este tema por WhatsApp**](https://wa.me/573103618296?text=Hola%2C%20Leli.%20Estoy%20estudiando%20Programaci%C3%B3n%20orientada%20a%20objetos%20del%20curso%20Python%20desde%20cero%20%28https%3A%2F%2Fgithub.com%2Flelyliliana%2FCurso-Python%2Ftree%2Fmain%2Funidad07-poo%29%20y%20necesito%20una%20asesor%C3%ADa%20personalizada.%20Mi%20duda%20es%E2%80%A6)

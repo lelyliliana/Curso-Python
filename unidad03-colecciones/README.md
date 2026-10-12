@@ -1378,3 +1378,11 @@ En la Unidad 4 aprenderemos a organizar y reutilizar esa lógica mediante funcio
 - **Unidad anterior:** [Unidad 2 — Control de flujo](../unidad02-control-flujo/README.md)
 - **Volver al índice:** [Todas las unidades](../README.md)
 - **Siguiente unidad:** [Unidad 4 — Funciones](../unidad04-funciones/README.md)
+
+---
+
+### ¿Necesitas apoyo con este tema?
+
+Si te bloqueaste con la práctica, necesitas revisar tu entorno o adaptar lo aprendido a tu proyecto, podemos trabajarlo en una sesión personalizada.
+
+[**Solicitar asesoría para este tema por WhatsApp**](https://wa.me/573103618296?text=Hola%2C%20Leli.%20Estoy%20estudiando%20Colecciones%20del%20curso%20Python%20desde%20cero%20%28https%3A%2F%2Fgithub.com%2Flelyliliana%2FCurso-Python%2Ftree%2Fmain%2Funidad03-colecciones%29%20y%20necesito%20una%20asesor%C3%ADa%20personalizada.%20Mi%20duda%20es%E2%80%A6)
